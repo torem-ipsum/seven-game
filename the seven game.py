@@ -2,7 +2,7 @@
 # TOTALLY spontaneous idea
 # that game we played, where you can't say a number with 7 in it,
 # or any number that's divisible by 7
-# lets make a fucking program for that
+# lets make a program for that
 # and uncover the mysteries of 7 shall we
 # i just am really fed up with my compsci hw rn
 
