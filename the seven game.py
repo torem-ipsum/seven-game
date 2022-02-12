@@ -1,6 +1,6 @@
 # SOMETHING FOR FUN
 # TOTALLY spontaneous idea
-# that drinking game we played, where you can't say a number with 7 in it,
+# that game we played, where you can't say a number with 7 in it,
 # or any number that's divisible by 7
 # lets make a fucking program for that
 # and uncover the mysteries of 7 shall we
